@@ -79,17 +79,24 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Welcome to my cozy corner !",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"Have a good time.",
+				"风就是声音，风就是音乐，风就是语言",
+				"谢谢你出现在我的生命里",
+				"有些路要自己走，不是因为孤独，是因为那段风景只属于你",
+				"世界是有浮力的，放松就会被托举",
+				"愿岁并谢，与长友兮",
+				"请你无条件相信你自己",
+				"今天啥也没干，辛苦了",
+				"坏了坏了，这下好了",
+				"我的生活正如潺潺流水般有力而平静",
+				"正是因为你有能力面对，有些考验才会降临",
+				"其实我刚刚在闭目养神，你把我喊醒了，你弑神了知道吗",
+				"我直接用最直白、最简单、最朴实、最坦然、最真实、最实际、最利落、最干脆、最不绕弯、最不兜圈子、最不拐弯抹角，…展开",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
