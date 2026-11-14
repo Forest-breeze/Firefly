@@ -51,7 +51,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				name: "Merry Christmas Mr.Lawrence",
 				artist: "坂本龙一",
 				url: "/music/Christmas.mp3",
-				cover: "",
+				cover: "/music/yinyue.jpg",
 				lrc: "",
 			},
 		],
