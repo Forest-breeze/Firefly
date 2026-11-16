@@ -67,8 +67,8 @@ const adapter = process.env.CF_WORKERS
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://Forest-breeze.github.io',
-	base: '/Firefly', 
+	site: 'https://forestbreeze.fun',
+	// base: '/Firefly', 
 	trailingSlash: "always",
 
 	// 字体配置 - 只加载实际使用的字体，跳过未引用的以加快构建
